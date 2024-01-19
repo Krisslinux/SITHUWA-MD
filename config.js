@@ -15,9 +15,9 @@ global.devs = '94761516805';
 global.website = 'https://github.com/Sithuwa/SITHUWA-MD' //wa.me/+94000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/15b1dd8aeaa47888d75d7.jpg'
 module.exports = {
-  sessionName: process.env.SESSION_ID || "",      //Put Your Session Id Here
-  author:  process.env.PACK_AUTHER ||  'SITHUWA BOT',
-  packname:  process.env.PACK_NAME || 'MADE BY SITHUM KALHARA',
+  sessionName: process.env.SESSION_ID || "SITHUWA-MD;;;InquireChefs",      //Put Your Session Id Here
+  author:  process.env.PACK_AUTHER ||  ' BOT',
+  packname:  process.env.PACK_NAME || 'kris',
   
   botname:   process.env.BOT_NAME === undefined ? "SITHUWA-MD" : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'sithumkalhara' : process.env.OWNER_NAME,  
